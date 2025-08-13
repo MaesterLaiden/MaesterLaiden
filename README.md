@@ -25,9 +25,9 @@ Visit the portfolio for more projects, details and images.  I’m constantly add
 
 ## 🎓 Certifications & Goals
 
-- Completed training and hands‑on labs through **TryHackMe** and **Hack The Box**.
-- Working towards **CompTIA Security+** and **eLearnSecurity Junior Penetration Tester (eJPT)** certifications.
-- Planning to pursue a **master’s degree in cybersecurity in Japan** after graduation.
+- Earned a Pre-Security Certificate on Try-Hack me https://tryhackme.com/certificate/THM-BKNUVPLN75
+- Working towards **CompTIA Security+** and **eLearnSecurity Security Operations Center 1)** certifications.
+- Planning to pursue a **master’s degree in cybersecurity in Japan** after graduation early 2026.
 
 ## 📫 Let’s Connect
 
