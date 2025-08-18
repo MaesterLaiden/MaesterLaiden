@@ -17,7 +17,7 @@ I believe the best way to learn is by building.  That’s why I maintain a **[SO
 
 | Project | Summary | Key Skills |
 | --- | --- | --- |
-| **Personalised SIEM Implementation** | Built a custom SIEM pipeline using the ELK stack, centralising logs and creating dashboards to surface brute‑force and malware activity. | Log management, event correlation, threat detection |
+| [**SOC Lab: Phishing Simulation & Detection (GoPhish)**](https://github.com/MaesterLaiden/SOC-Lab-Phishing-Simulation-Detection-GoPhish-) — Ran a safe, self-targeted phishing simulation with GoPhish using authenticated SMTP and SPF/DKIM/DMARC; captured delivery/open/click/submission telemetry; mapped SOC detections plus an IR mini-playbook. | Phishing simulation | Detection engineering | Incident response |
 | **Threat Intelligence Pipeline** | Integrated OpenCTI and MISP feeds with YARA scanning for automated IOC ingestion and weekly threat briefings. | Threat intelligence, automation, YARA |
 | **Network Traffic Analysis** | Deployed Snort and Zeek, analysed live packet captures and wrote rules to detect lateral movement and beaconing. | Network analysis, signature development, incident reporting |
 
