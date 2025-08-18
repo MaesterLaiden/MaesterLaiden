@@ -2,8 +2,6 @@
 
 # Hi there, I'm Muhammad Elladan 👋
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4823465" style='border:none;'></iframe>
-
 I'm a final‑year cybersecurity student specialising in **security operations and digital forensics**.  My days are spent hunting threats in lab environments, tuning detection rules and learning how real‑world attackers operate.  I'm currently open to **remote SOC analyst internships**, **volunteer roles** and preparing to pursue a **master’s degree in Japan**.
 
 ## 🧭 What I’m focusing on
@@ -12,6 +10,10 @@ I'm a final‑year cybersecurity student specialising in **security operations a
 - **Digital Forensics & IR** – endpoint telemetry, memory/disk analysis and building concise incident reports.
 - **Threat Intelligence** – aggregating and automating IOC feeds, writing YARA rules and tracking emerging malware.
 - **Network Monitoring** – configuring Snort/Zeek sensors and writing custom signatures to detect command‑and‑control traffic.
+
+## My Cybersecurity Training
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/mohel.laiden.png" alt="Your Image Badge" />
 
 ## 🔨 My Projects
 
