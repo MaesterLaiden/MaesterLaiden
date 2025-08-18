@@ -2,6 +2,8 @@
 
 # Hi there, I'm Muhammad Elladan 👋
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4823465" style='border:none;'></iframe>
+
 I'm a final‑year cybersecurity student specialising in **security operations and digital forensics**.  My days are spent hunting threats in lab environments, tuning detection rules and learning how real‑world attackers operate.  I'm currently open to **remote SOC analyst internships**, **volunteer roles** and preparing to pursue a **master’s degree in Japan**.
 
 ## 🧭 What I’m focusing on
