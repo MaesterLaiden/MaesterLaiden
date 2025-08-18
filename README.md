@@ -13,7 +13,7 @@ I'm a final‑year cybersecurity student specialising in **security operations a
 
 ## 🔨 My Projects
 
-I believe the best way to learn is by building.  That’s why I maintain a **[SOC Analyst portfolio website](https://maesterlaiden.github.io/soc-analyst-portfolio/)** with interactive project cards, write‑ups and source code.  Each project highlights the tools I used, the skills I gained and the outcomes achieved.  Here are a few examples:
+I believe the best way to learn is by building. Each project highlights the tools I used, the skills I gained and the outcomes achieved.  Here are a few examples:
 
 | Project | Summary | Key Skills |
 | --- | --- | --- |
