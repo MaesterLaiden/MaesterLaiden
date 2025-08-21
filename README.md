@@ -22,7 +22,7 @@ I believe the best way to learn is by building. Each project highlights the tool
 | Project | Summary | Key Skills |
 | --- | --- | --- |
 | [**SOC Lab: Phishing Simulation & Detection (GoPhish)**](https://github.com/MaesterLaiden/SOC-Lab-Phishing-Simulation-Detection-GoPhish-) — Ran a safe, self-targeted phishing simulation with GoPhish using authenticated SMTP and SPF/DKIM/DMARC; captured delivery/open/click/submission telemetry; mapped SOC detections plus an IR mini-playbook. | Phishing simulation | Detection engineering | Incident response |
-| [**Kill Chain + MITRE ATT&CK Mapping: Phishing → Ransomware**](https://github.com/MaesterLaiden/Mini-Project-Phishing-Ransomware-Kill-Chain-MITRE-ATT-CK-) | Mapped the attack across the Cyber Kill Chain and MITRE ATT&CK; produced a one-page detection cheat-sheet for SOC Tier-1 (email/perimeter, host/EDR, network, impact/recovery). | Threat modeling, Detection engineering, SIEM use-cases, Windows logging, ATT&CK |
+| [**Kill Chain + MITRE ATT&CK Mapping: Phishing → Ransomware**](https://github.com/MaesterLaiden/Mini-Project-Phishing-Ransomware-Kill-Chain-MITRE-ATT-CK-) — Mapped the attack across the Cyber Kill Chain and MITRE ATT&CK; produced a one-page detection cheat-sheet for SOC Tier-1 (email/perimeter, host/EDR, network, impact/recovery). | Attack Simulation | Threat modeling, Detection engineering, SIEM use-cases, Windows logging, ATT&CK |
 | **Network Traffic Analysis** | Deployed Snort and Zeek, analysed live packet captures and wrote rules to detect lateral movement and beaconing. | Network analysis, signature development, incident reporting |
 
 Visit the portfolio for more projects, details and images.  I’m constantly adding new work as I complete labs and challenges.
